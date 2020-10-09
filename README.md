@@ -1,10 +1,10 @@
-# SistemasEmbedidos
+# Sistemas Embebidos
 
-A Particle project named SistemasEmbedidos
+Repositorio para contener el código fuente utilizado en la clase de Sistemas Embebidos. Las prácticas se realizan sobre el dispositivo Particle.
 
-## Welcome to your project!
+[![Logo (horizontal)](https://images.ctfassets.net/ity165ek7v1z/2HcbNWKHZY46yw8c6CsMoy/7683327c6f18c55c8f8b258633911152/logo__horizontal_.jpg?w=800&q=50)](https://images.ctfassets.net/ity165ek7v1z/2HcbNWKHZY46yw8c6CsMoy/7683327c6f18c55c8f8b258633911152/logo__horizontal_.jpg?w=800&q=50)
 
-Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for SistemasEmbedidos.
+
 
 #### ```/src``` folder:  
 This is the source folder that contains the firmware files for your project. It should *not* be renamed. 
