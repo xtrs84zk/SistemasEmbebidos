@@ -1,0 +1,26 @@
+# Object files
+*.o
+*.cpp
+
+# Libraries
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug folder
+Debug/*
+
+# Target folder
+target/*
+
+# VSCode folder
+.vscode/*
