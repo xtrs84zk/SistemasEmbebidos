@@ -13,7 +13,7 @@ La primer práctica consiste en hacer parpadear un LED en el pin D0. <!-- more -
 - 4 Cables dupont.
 
 ## Configuración física
-// aquí va la manera en que se conectan los pines
+![Conf](../assets/practica1.png)
 
 ## Código
 
