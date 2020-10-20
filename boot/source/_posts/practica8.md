@@ -4,7 +4,7 @@ date: 2020-10-14 17:25:18
 tags:
 ---
 
-La séptima práctica consiste en incrementar lentamente la intensidad de un LED y luego decrementar al mismo ritmo. <!-- more -->
+La octava práctica consiste en incrementar lentamente la intensidad de un LED y luego decrementar al mismo ritmo. <!-- more -->
 
 ## Materiales
 
@@ -15,14 +15,14 @@ La séptima práctica consiste en incrementar lentamente la intensidad de un LED
 
 ## Configuración física
 
-// Simón
+![Un led en D0](../assets/led-en-d0.png)
 
 ## Código
 
 ### Declaración
 
 ```cpp
-int tiempo = 20;
+int tiempo = 20; // cincuenta cambios por segundo
 ```
 
 ### Inicialización

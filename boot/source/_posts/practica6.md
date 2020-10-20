@@ -1,21 +1,21 @@
 ---
-title: practica6
+title: Práctica 6
 date: 2020-10-13 17:20:18
 tags:
 ---
 
-La sexta práctica consiste en encender cuatro LEDs a diferentes intensidades perceptibles haciendo uso de la tecnología PWM. El primer LED debe encender al 100% de su intensidad, el segundo al 50%, el tercero al 20% y el cuarto al 5%. <!-- more -->
+La sexta práctica consiste en encender cuatro LEDs a diferentes intensidades <u>perceptibles</u> haciendo uso de la tecnología PWM. El primer LED debe encender al 100% de su intensidad, el segundo al 50%, el tercero al 20% y el cuarto al 5%. <!-- more -->
 
 ## Materiales
 
 - 4 LED.
 - 1 Particle Photon.
 - 1 Resistencia 220 Ohms.
-- 12 Cables dupont.
+- 8 Cables dupont.
 
 ## Configuración física
 
-// Simón
+![Cuatro LEDs, de D0 a D3](../assets/4led-en-d0-3.png)
 
 ## Código
 

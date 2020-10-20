@@ -4,7 +4,7 @@ date: 2020-10-14 17:45:18
 tags:
 ---
 
-La novena práctica es una práctica mixta que consiste en:
+La novena es una práctica mixta que consiste en:
 
 1. Secuencia de LEDs de izquierda a derecha y viceversa.
 
@@ -21,11 +21,11 @@ La novena práctica es una práctica mixta que consiste en:
 - 4 LED.
 - 1 Particle Photon.
 - 1 Resistencia 220 Ohms.
-- 12 Cables dupont.
+- 8 Cables dupont.
 
 ## Configuración física
 
-// Simón
+![Cuatro LEDs, de D0 a D3](../assets/4led-en-d0-3.png)
 
 ## Código
 

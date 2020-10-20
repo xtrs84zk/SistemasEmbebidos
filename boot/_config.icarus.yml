@@ -100,7 +100,6 @@ navbar:
   menu:
     Inicio: /
     Archivo: /archives
-    Categorias: /categories
     Autor: https://github.com/xtrs84zk
   # Links to be shown on the right of the navigation bar
   links:
@@ -126,7 +125,7 @@ article:
   highlight:
     # Code highlight themes
     # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-    theme: atom-one-dark
+    theme: railscasts
     # Show copy code button
     clipboard: true
     # Default folding status of the code blocks. Can be "", "folded", "unfolded"
@@ -208,7 +207,7 @@ widgets:
     position: left
     type: profile
     # Author name
-    author: Somebody
+    author: J. S.
     # Author title
     author_title: Sistemas Embebidos
     # Author's current location
@@ -220,7 +219,7 @@ widgets:
     # Email address for the Gravatar
     # gravatar:
     # URL or path for the follow button
-    # follow_link: "https://github.com/xtrs84zk"
+    follow_link: "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fsistemas-embebidos.javiersanchez.gq%2F&ref_src=twsrc%5Etfw&screen_name=xtrs84zk&tw_p=followbutton"
     # Links to be shown on the bottom of the profile widget
     # social_links:
     #     Github:

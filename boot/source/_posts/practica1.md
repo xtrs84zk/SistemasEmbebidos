@@ -10,10 +10,10 @@ La primer práctica consiste en hacer parpadear un LED en el pin D0. <!-- more -
 - 1 LED.
 - 1 Particle photon.
 - 1 Resistencia 220 Ohms.
-- 4 Cables dupont.
+- 2 Cables dupont.
 
 ## Configuración física
-![Conf](../assets/practica1.png)
+![Un led en D0](../assets/led-en-d0.png)
 
 ## Código
 

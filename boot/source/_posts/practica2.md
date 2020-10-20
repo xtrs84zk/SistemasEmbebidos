@@ -5,18 +5,18 @@ tags:
 
 ---
 
-La primer práctica consiste en encender y apagar cuatro LEDs al mismo tiempo con un intervalo de repetición de medio segundo. <!-- more -->
+La segunda práctica consiste en encender y apagar cuatro LEDs al mismo tiempo con un intervalo de repetición de medio segundo. <!-- more -->
 
 ## Materiales
 
 - 4 LED.
 - 1 Particle photon.
 - 1 Resistencia 220 Ohms.
-- 12 Cables dupont.
+- 8 Cables dupont.
 
 ## Configuración física
 
-// aquí va la manera en que se conectan los pines
+![Cuatro LEDs, de D0 a D3](../assets/4led-en-d0-3.png)
 
 ## Código
 

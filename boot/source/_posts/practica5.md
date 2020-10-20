@@ -8,18 +8,18 @@ tags:
 
 ---
 
-La tercer práctica consiste en encender y apagar cuatro LEDs con un intervalo de un medio segundo entre ellos en dirección a la derecha, y luego a la izquierda para mantener la ilusión de movimiento. Se aprovecha además, para introducir el concepto de estructuras de control, tal como el ciclo for. <!-- more -->
+La quinta práctica consiste en encender cuatro LEDs con un intervalo de un medio segundo entre ellos con dirección a la derecha, y luego los apaga hacia la izquierda con el mismo intervalo. Se aprovecha además, para introducir el concepto de estructuras de control, tal como el ciclo **for**. <!-- more -->
 
 ## Materiales
 
 - 4 LED.
 - 1 Particle photon.
 - 1 Resistencia 220 Ohms.
-- 12 Cables dupont.
+- 8 Cables dupont.
 
 ## Configuración física
 
-// aquí va la manera en que se conectan los pines
+![Cuatro LEDs, de D0 a D3](../assets/4led-en-d0-3.png)
 
 ## Código
 

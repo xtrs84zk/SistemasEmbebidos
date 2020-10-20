@@ -15,7 +15,7 @@ La séptima práctica consiste en incrementar lentamente la intensidad de un LED
 
 ## Configuración física
 
-// Simón
+![Un led en D0](../assets/led-en-d0.png)
 
 ## Código
 
