@@ -1,6 +1,6 @@
 /*
  * Project Práctica 4
- * Description: Enciende y apaga cada led por medio segundo y lego de regreso
+ * Description: Enciende y apaga cada led por medio segundo y luego de regreso
  * 
  * Author: Javier Sánchez
  * Date: Octubre 8, 2020.
