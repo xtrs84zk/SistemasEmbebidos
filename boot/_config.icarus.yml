@@ -250,6 +250,7 @@ widgets:
     # Names and URLs of the sites
     links:
       Particle IDE: "https://build.particle.io/"
+      Particle CLI: "https://docs.particle.io/tutorials/developer-tools/cli/"
       Fritzing: "https://github.com/fritzing/fritzing-app"
       Educatec: "https://educatec.saltillo.tecnm.mx/"
   # Categories widget configurations
