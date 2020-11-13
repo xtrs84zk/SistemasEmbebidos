@@ -16,5 +16,5 @@ void loop()
     lectura = analogRead(A0); // se lee la entrada analógica A0 que proporciona valores de 0-4095
     Serial.print("La lectura en A0 es: ");
     Serial.println(lectura); // se imprime el valor en lectura
-    delay(1000);             // esperando 1 segundo entre cada instalación
+    delay(1000);             // esperando 1 segundo entre cada iteración
 }
